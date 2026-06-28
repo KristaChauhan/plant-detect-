@@ -1,4 +1,4 @@
-# Plant Detection using YOLOv8
+# Plant Detection 
 
 ## Overview
 
